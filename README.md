@@ -14,4 +14,4 @@ At its core, a pathfinding algorithm seeks to find the shortest path between two
 
 5.Depth-First Search(DFS)
 
-Here is the hosted app link https://path-finder-apk.herokuapp.com/
+Here is the hosted app link https://path-finder-apk.herokuapp.com/ .
